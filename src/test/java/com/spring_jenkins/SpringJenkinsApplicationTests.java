@@ -8,6 +8,7 @@ class SpringJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test case executed successfully.");
 	}
 
 }
